@@ -1,0 +1,50 @@
+h1 {
+    font-size: 3.157em;
+    font-weight: 200;
+    margin-top: 0;
+}
+
+h2 {
+    font-size: 2.369em;
+    font-weight: 200;
+    margin-top: 0;
+}
+
+h3 {
+    font-size: 1.777em;
+    font-weight: 200;
+    margin-top: 0;
+}
+
+h4 {
+    font-size: 1.333em;
+    font-weight: 200;
+    margin-top: 0;
+}
+
+h5 {
+    font-size: 1em;
+    font-weight: 200;
+    margin-top: 0;
+}
+
+small,
+.font_small {
+    font-size: 0.75em;
+}
+
+p {
+    margin-bottom: 1.3em;
+}
+
+a {
+    color: $primary;
+    transition: color .25s;
+    text-decoration: none;
+
+    &:hover {
+        color: darken($primary, 15%);
+        text-decoration: underline;
+        transition: color .25s, text-decoration .25s;
+    }
+}

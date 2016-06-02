@@ -1,0 +1,28 @@
+// Base variables
+$base-font-family: 'Source Sans Pro', sans-serif;
+$base-font-size:   1em;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+// Spacing
+$spacing-unit: 2em;
+
+// Colors
+$text-color: #323232;
+$background-color: #FDFDFD;
+
+$secondary: #38385E;
+$success: #2ECC71;
+$danger: #FE446E;
+$warning: #FDC23E;
+$primary: #3488BD;
+$gray: #D9D9E0;
+
+$primary-light: #80D3EC;
+$warning-light: #FFE6AF;
+
+// Width of the content area
+$large-screen: 60em;
+$medium-screen: 48em;
+$small-screen: 30em;
