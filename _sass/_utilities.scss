@@ -1,4 +1,15 @@
 .accent {
-    font-weight: normal;
-    color: darken($gray, 35%);
+    &--gray {
+        color: darken($gray, 15%);
+    }
+
+    &--warm {
+        color: $danger;
+    }
+
+    &--cool {
+        color: $primary;
+        font-weight: normal;
+    }
 }
+

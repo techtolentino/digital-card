@@ -37,15 +37,30 @@ p {
     margin-bottom: 1.3em;
 }
 
-a {
-    color: $primary;
-    transition: color .25s;
-    text-decoration: none;
+.link {
 
-    &:hover {
-        color: darken($primary, 15%);
-        text-decoration: underline;
-        transition: color .25s, text-decoration .25s;
+    &--base {
+        color: $primary;
+        transition: color .25s;
+        text-decoration: none;
+
+        &:hover {
+            color: darken($primary, 15%);
+            border-bottom: 1px solid currentColor;
+            transition: color .25s, border-bottom .5s;
+        }
+    }
+
+    &--warm {
+        color: $danger;
+        transition: color .25s;
+        text-decoration: none;
+
+        &:hover {
+         color: darken($danger, 20%);
+         border-bottom: 1px solid currentColor;
+         transition: color .25s, border-bottom .5s;
+        }
     }
 }
 
