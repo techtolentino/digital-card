@@ -3,6 +3,10 @@
     padding-bottom: $spacing-unit / 2;
     border-bottom: 1px solid darken($gray, 5%);
 
+    &--clean {
+        border-bottom: none;
+    }
+
     &--alt {
         background: $gray;
     }
