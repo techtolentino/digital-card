@@ -1,6 +1,6 @@
 .accent {
     &--gray {
-        color: darken($gray, 15%);
+        color: $gray;
     }
 
     &--warm {

@@ -77,6 +77,3 @@ DEPENDENCIES
   guard-jekyll-plus
   guard-livereload
   jekyll
-
-BUNDLED WITH
-   1.11.2
