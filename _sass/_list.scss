@@ -2,5 +2,20 @@
     &--social {
         padding-left: 0;
         list-style: none;
+        li {
+            display: inline;
+            margin-right: $spacing-unit / 2.5;
+
+            a {
+                text-decoration: none;
+                &:hover {
+                    text-decoration: none;
+                }
+            }
+
+            svg {
+                max-width: 2em;
+            }
+        }
     }
 }

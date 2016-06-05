@@ -1,12 +1,7 @@
-.photo {
+.image {
     max-width: 100%;
 
     &--profile {
         max-width: 15em;
-    }
-
-    &--icon {
-        max-width: 1.5em;
-        margin-right: $spacing-unit / 4;
     }
 }
