@@ -1,6 +1,18 @@
 .list {
     &--social {
+        margin: 0;
         padding-left: 0;
         list-style: none;
+        li {
+            display: inline;
+            svg {
+                max-width: 1.75em;
+                margin-right: 1.25em;
+            }
+
+            a:hover {
+                text-decoration: none;
+            }
+        }
     }
 }
