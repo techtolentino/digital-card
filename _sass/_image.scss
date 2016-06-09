@@ -2,15 +2,13 @@
     max-width: 100%;
 
     &--profile {
-        max-width: 15em;
-        border-radius: 50%;
-        border: 1px solid $background-color;
-        margin-bottom: $spacing-unit;
-        margin-top: $spacing-unit;
+        max-width: 18em;
     }
 
     &--svg--icon {
-        max-width: 2em;
+        max-width: 1.5em;
+        float: left;
+        margin-right: $spacing-unit;
     }
 }
 

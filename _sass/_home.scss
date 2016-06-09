@@ -1,25 +1,31 @@
 .home {
-    height: 100vh;
     display: flex;
-    flex-direction: column;
+    box-shadow: .5em 1em 4em lighten($gray, 30%);
+    max-width: 100%;
+    width: $large-screen;
+    margin: 0 auto;
+    overflow: hidden;
 
     &--profile {
-        text-align: center;
-        padding: 2em;
-        background: $secondary;
-        color: $background-color;
+        border-right: 2px solid lighten($gray, 20%);
+        &--top {
+            background: $primary;
+        }
+
+        &--bottom {
+            background: lighten($primary, 10%);
+            padding-top: $spacing-unit / 2;
+            height: 100%;
+            color: $background-color;
+        }
     }
 
     &--information {
+        padding: $spacing-unit / 2;
+        flex-grow: 1;
     }
 
     &--title {
-        font-size: 2.369em;
-        margin: 0;
-        padding-bottom: 0.35em;
-
-        &--subtitle {
-            font-size: 1.15em;
-        }
+        margin-bottom: .25em;
     }
 }
