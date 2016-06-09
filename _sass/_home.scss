@@ -1,0 +1,14 @@
+.home {
+    &--card {
+        clear: both;
+    }
+
+    &--profile {
+        float: left;
+        margin-right: 3em;
+    }
+
+    &--information {
+        float: left;
+    }
+}
