@@ -3,5 +3,18 @@
 
     &--profile {
         max-width: 15em;
+        border-radius: 50%;
+        display: block;
+        margin: 0 auto;
+        border: 1px solid $gray;
+    }
+}
+
+@include media-query($medium-screen) {
+    .image {
+        &--profile {
+            max-width: 12em;
+            margin: 0;
+        }
     }
 }
