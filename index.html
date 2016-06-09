@@ -1,41 +1,44 @@
 ---
 layout: default
 ---
-<div class="layer--LARGE layer--clean">
-    <div class="container">
-        <div class="bricks">
-            <div class="bricks--layer bricks--layer--MEDIUM">
-                <div class="bricks--item">
-                    <img class="image--profile" src="./assets/randy-2016.png" alt="">
-                </div>
-                <div class="bricks--item">
-                    <h1>Randy Tolentino</h1>
-                    <h4 class="accent--gray">Front-end Software Developer</h4>
-                    <p><a class="link--warm" href="mailto:makertolentino@gmail.com">makertolentino@gmail.com</a></p>
-                    <ul class="list--social">
-                        <li>
-                            <a href="https://github.com/techtolentino">
-                                {% include /assets/icon-github.svg %}
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://twitter.com/techtolentino">
-                                {% include /assets/icon-twitter.svg %}
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://linkedin.com/in/randytolentino">
-                                {% include /assets/icon-linkedin.svg %}
-                            </a>
-                        </li>
-                        <li>
-                            <a href="http://randytolentino.com/blog">
-                                {% include /assets/icon-blog.svg %}
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
+<div class="home">
+    <div class="home--profile">
+        <img class="image--profile" src="./assets/randy-2016.png" alt="">
+        <h1 class="home--title">Randy Tolentino</h1>
+        <h4 class="home--title--subtitle">Front-end Software Developer</h4>
+    </div>
+    <div class="home--information">
+        <ul class="list--social">
+            <a href="https://github.com/techtolentino">
+                <li>
+                    {% include /assets/icon-github.svg %}
+                    github
+                </li>
+            </a>
+            <a href="https://twitter.com/techtolentino">
+                <li>
+                    {% include /assets/icon-twitter.svg %}
+                    twitter
+                </li>
+            </a>
+            <a href="https://linkedin.com/in/randytolentino">
+                <li>
+                    {% include /assets/icon-linkedin.svg %}
+                    linkedin
+                </li>
+            </a>
+            <a href="http://randytolentino.com/blog">
+                <li>
+                    {% include /assets/icon-blog.svg %}
+                    blog
+                </li>
+            </a>
+            <a href="mailto:makertolentino@gmail.com">
+                <li>
+                    {% include /assets/icon-blog.svg %}
+                    email
+                </li>
+            </a>
+        </ul>
     </div>
 </div>
