@@ -6,4 +6,28 @@
     height: 30em;
     background: url(../assets/svg-brackets.svg) no-repeat center;
     background-size: contain;
+
+    &--title {
+        margin-bottom: .15em;
+    }
+
+    &--nav {
+        list-style: none;
+        padding-left: 0;
+
+        &--item {
+            display: inline;
+            margin: .75em;
+            a {
+                text-decoration: none;
+                color: darken($gray-color, 15%);
+                font-weight: lighter;
+
+                &:hover {
+                    color: $cool-color;
+                    text-decoration: underline;
+                }
+            }
+        }
+    }
 }
