@@ -1,32 +1,7 @@
 .layer {
     padding-top: $spacing-unit / 2;
     padding-bottom: $spacing-unit / 2;
-    border-bottom: 1px solid darken($gray, 5%);
-
-    &--clean {
-        border-bottom: none;
-    }
-
-    &--alt {
-        background: $gray;
-    }
-
-    &--secondary {
-        background: $secondary;
-        color: $background-color;
-    }
-
-    &--primary {
-        background: $primary;
-    }
-
-    &--warning-light {
-        background: $warning-light;
-    }
-
-    &--primary-light {
-        background: $primary-light;
-    }
+    border-bottom: 1px solid darken($gray-color, 5%);
 
     &--LARGE {
         width: 100%;

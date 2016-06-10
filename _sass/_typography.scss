@@ -40,26 +40,26 @@ p {
 .link {
 
     &--base {
-        color: $primary;
+        color: $cool-color;
         transition: color .25s;
         text-decoration: none;
         font-weight: 300;
 
         &:hover {
-            color: darken($primary, 20%);
+            color: darken($cool-color, 20%);
             border-bottom: 1px solid currentColor;
             transition: color .25s, border-bottom .5s;
         }
     }
 
     &--warm {
-        color: $danger;
+        color: $accent-color;
         transition: color .25s;
         text-decoration: none;
         font-weight: 300;
 
         &:hover {
-         color: darken($danger, 20%);
+         color: darken($accent-color, 20%);
          border-bottom: 1px solid currentColor;
          transition: color .25s, border-bottom .5s;
         }

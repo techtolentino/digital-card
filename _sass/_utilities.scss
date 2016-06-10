@@ -1,14 +1,14 @@
 .accent {
     &--gray {
-        color: $gray;
+        color: $gray-color;
     }
 
     &--warm {
-        color: $danger;
+        color: $accent-color;
     }
 
     &--cool {
-        color: $primary;
+        color: $cool-color;
         font-weight: normal;
     }
 }

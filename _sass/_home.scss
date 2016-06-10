@@ -1,19 +1,19 @@
 .home {
     display: flex;
-    box-shadow: .5em 1em 4em lighten($gray, 30%);
+    box-shadow: .5em 1em 4em lighten($gray-color, 30%);
     max-width: 100%;
     width: $large-screen;
     margin: 0 auto;
     overflow: hidden;
 
     &--profile {
-        border-right: 2px solid lighten($gray, 20%);
+        border-right: 2px solid lighten($gray-color, 20%);
         &--top {
-            background: $primary;
+            background: $cool-color;
         }
 
         &--bottom {
-            background: lighten($primary, 10%);
+            background: lighten($cool-color, 10%);
             padding-top: $spacing-unit / 2;
             height: 100%;
             color: $background-color;

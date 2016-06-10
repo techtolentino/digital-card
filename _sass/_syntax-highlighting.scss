@@ -2,7 +2,7 @@
  * Syntax highlighting styles
  */
 .highlight {
-    background: lighten($gray, 10%);
+    background: lighten($gray-color, 10%);
     margin: 0;
     padding: $spacing-unit / 2;
     overflow: auto;
@@ -38,7 +38,7 @@
     .kt    { color: #458; font-weight: bold } // Keyword.Type
     .m     { color: #099 } // Literal.Number
     .s     { color: #d14 } // Literal.String
-    .na    { color: $secondary } // Name.Attribute
+    .na    { color: $cool-color } // Name.Attribute
     .nb    { color: #0086B3 } // Name.Builtin
     .nc    { color: #458; font-weight: bold } // Name.Class
     .no    { color: #008080 } // Name.Constant
@@ -46,7 +46,7 @@
     .ne    { color: #900; font-weight: bold } // Name.Exception
     .nf    { color: #900; font-weight: bold } // Name.Function
     .nn    { color: #555 } // Name.Namespace
-    .nt    { color: $primary } // Name.Tag
+    .nt    { color: $cool-color } // Name.Tag
     .nv    { color: #008080 } // Name.Variable
     .ow    { font-weight: bold } // Operator.Word
     .w     { color: #bbb } // Text.Whitespace
@@ -73,7 +73,7 @@
 }
 
 .highlighter-rouge {
-    background: lighten($gray, 10%);
+    background: lighten($gray-color, 10%);
     font-size: .875em;
     font-family: 'Roboto Mono', monospace;
 }

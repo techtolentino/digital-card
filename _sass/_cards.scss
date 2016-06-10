@@ -1,8 +1,8 @@
 .card {
-    border: 1px solid $primary-light;
+    border: 1px solid $gray-color;
     border-radius: 2px;
     &--title {
-        background: $primary-light;
+        background: $gray-color;
         color: $background-color;
         padding: $spacing-unit/3;
     }
