@@ -3,28 +3,37 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    height: 30em;
-    background: url(../assets/svg-brackets.svg) no-repeat center;
+    height: 25em;
+    background: url(../assets/circle-stamp.png) no-repeat center;
     background-size: contain;
 
     &--title {
+        margin-top: .5em;
         margin-bottom: .15em;
+        font-size: 3.75em;
+        color: darken($cool-color, 60%);
+    }
+
+    &--subtitle {
+        color: darken($cool-color, 40%);
     }
 
     &--nav {
         list-style: none;
         padding-left: 0;
+        text-align: center;
 
         &--item {
             display: inline;
             margin: .75em;
             a {
                 text-decoration: none;
-                color: darken($gray-color, 15%);
+                color: $accent-color;
                 font-weight: lighter;
 
                 &:hover {
-                    color: $cool-color;
+                    color: $text-color;
+                    cursor: pointer;
                     text-decoration: underline;
                 }
             }
