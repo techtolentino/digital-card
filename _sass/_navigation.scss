@@ -1,0 +1,21 @@
+.nav {
+    list-style: none;
+    padding-left: 0;
+    text-align: center;
+
+    &--item {
+        display: inline;
+        margin: 1em;
+        a {
+            text-decoration: none;
+            color: darken($gray-color, 15%);
+            font-weight: lighter;
+
+            &:hover {
+                color: $text-color;
+                font-weight: normal;
+                cursor: pointer;
+            }
+        }
+    }
+}

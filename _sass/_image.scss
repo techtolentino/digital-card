@@ -1,29 +1,8 @@
 .image {
-    max-width: 100%;
-
-    &--profile {
-        max-width: 18em;
-    }
-
-    &--svg--icon {
-        max-width: 1.5em;
-        float: left;
-        margin-right: $spacing-unit;
-    }
-}
-
-@include media-query($medium-screen) {
-    .image {
-        &--profile {
-            max-width: 12em;
-        }
-    }
-}
-
-@include media-query($small-screen) {
-    .image {
-        &--profile {
-            max-width: 6em;
-        }
+    &--stamp {
+        max-width: 4em;
+        position: absolute;
+        opacity: .7;
+        left: -1.5em;
     }
 }
