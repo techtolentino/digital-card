@@ -1,6 +1,6 @@
 ---
 layout: page
-title: It was written
+title: it was written
 subtitle: A collection of thoughts
 ---
 

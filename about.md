@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Let me introduce
+title: let me introduce
 subtitle: Failure initiates the journey
 ---
 
