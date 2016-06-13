@@ -18,4 +18,38 @@
             }
         }
     }
+
+    &--mobile {
+        display: none;
+        background: $cool-color;
+        padding-top: $spacing-unit;
+        padding-bottom: $spacing-unit;
+
+        &--menu {
+            padding-left: 0;
+            list-style: none;
+            text-align: center;
+
+            &-item {
+                font-size: 2em;
+                font-weight: 300;
+                padding-top: $spacing-unit / 3;
+                padding-bottom: $spacing-unit / 3;
+
+                &:hover {
+                    font-weight: normal;
+                }
+            }
+        }
+
+        a {
+            color: $text-color;
+            text-decoration: none;
+
+            &:hover {
+                font-weight: normal;
+            }
+        }
+
+    }
 }

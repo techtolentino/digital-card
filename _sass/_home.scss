@@ -1,9 +1,10 @@
-@mixin home {
+.home {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     height: 17em;
+    background: url(../assets/circle-stamp.png) no-repeat center;
     background-size: contain;
 
     &--title {
@@ -15,24 +16,6 @@
 
     &--subtitle {
         color: darken($cool-color, 40%);
-    }
-}
-
-.home {
-    background: url(../assets/circle-stamp.png) no-repeat center;
-    @include home;
-
-    &--about{
-        background: url(../assets/circle-stamp-2.png) no-repeat center;
-        @include home;
-    }
-    &--work{
-        background: url(../assets/circle-stamp-3.png) no-repeat center;
-        @include home;
-    }
-    &--blog{
-        background: url(../assets/circle-stamp-4.png) no-repeat center;
-        @include home;
     }
 }
 
