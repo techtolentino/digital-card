@@ -1,29 +1,2 @@
 .home {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    height: 17em;
-    background: url(../assets/circle-stamp.png) no-repeat center;
-    background-size: contain;
-
-    &--title {
-        margin-top: .5em;
-        margin-bottom: .15em;
-        font-size: 3.75em;
-        color: darken($cool-color, 60%);
-    }
-
-    &--subtitle {
-        color: darken($cool-color, 40%);
-    }
-}
-
-@include media-query($small-screen) {
-    .home {
-        height: 7em;
-        &--title {
-            font-size: 2.75em;
-        }
-    }
 }
