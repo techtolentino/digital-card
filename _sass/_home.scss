@@ -1,2 +1,36 @@
 .home {
+    color: #FDFDFD;
+    display: flex;
+    justify-content: space-between;
+    background: black;
+    min-height: 100vh;
+
+    &--accent {
+        width: 10%;
+        background-color: #0AAF98;
+    }
+
+    &--block {
+        background-color: $background-color;
+        background-blend-mode: multiply;
+        width: 35%;
+        background-image: url('../assets/randy-2016-bw.png');
+        background-size: cover;
+    }
+
+    &--content {
+        background: #151515;
+        background: -moz-linear-gradient(left,  #151515 0%, #151515 51%, #060606 100%);
+        background: -webkit-linear-gradient(left,  #151515 0%,#151515 51%,#060606 100%);
+        background: linear-gradient(to right,  #151515 0%,#151515 51%,#060606 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#151515', endColorstr='#060606',GradientType=1 );
+        width: 55%;
+        padding: 0 2em;
+    }
+}
+
+@include media-query($medium-screen) {
+    .home {
+        flex-direction: column;
+    }
 }
