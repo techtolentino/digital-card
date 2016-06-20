@@ -1,27 +1,36 @@
 .home {
-    color: #FDFDFD;
+    color: $gray-color;
     display: flex;
     justify-content: space-between;
-    background: #171717;
+    background: darken($text-color, 12%);
     min-height: 100vh;
 
     &--accent {
-        width: 2%;
-        background-color: #0AAF98;
+        width: 10%;
+        background-color: darken($cool-color, 5%);
     }
 
     &--block {
-        background-color: $background-color;
         background-blend-mode: multiply;
+        background-color: lighten($text-color, 40%);
         width: 35%;
         background-image: url('../assets/randy-2016-bw.png');
         background-size: cover;
     }
 
     &--content {
-        background-color: #171717;
+        background-color: darken($text-color, 12%);
         width: 55%;
         padding: 0 2em;
+    }
+
+    &--subtitle {
+        text-transform: uppercase;
+    }
+
+    &--title {
+        text-transform: uppercase;
+        margin-bottom: $spacing-unit / 2;
     }
 }
 
@@ -43,9 +52,11 @@
 
         &--content {
             background-image: url('../assets/randy-2016-bw.png');
-            width: 100%;
+            width: initial;
             flex-grow: 1;
             background-size: cover;
+            background-blend-mode: multiply;
+            background-color: lighten($text-color, 40%);
         }
 
     }

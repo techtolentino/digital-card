@@ -17,3 +17,17 @@
         text-align: center;
     }
 }
+
+.text {
+    &--normal {
+        font-weight: normal;
+    }
+
+    &--bold {
+        font-weight: bold;
+    }
+
+    &--italics {
+        font-style: italic;
+    }
+}

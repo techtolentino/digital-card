@@ -1,0 +1,9 @@
+.divider {
+    &--cool {
+        border: 0;
+        height: 0;
+        border-top: 1px solid $cool-color;
+        margin: 1em 0 2em 0;
+        width: 7em;
+    }
+}
