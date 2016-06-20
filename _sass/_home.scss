@@ -12,14 +12,14 @@
 
     &--block {
         background-blend-mode: multiply;
-        background-color: lighten($text-color, 40%);
+        background-color: darken($text-color, 3%);
         width: 35%;
-        background-image: url('../assets/randy-2016-bw.png');
+        background-image: url('../assets/ran-bw.png');
         background-size: cover;
     }
 
     &--content {
-        background-color: darken($text-color, 12%);
+        background-color: #040404;
         width: 55%;
         padding: 0 2em;
     }
@@ -51,12 +51,12 @@
         }
 
         &--content {
-            background-image: url('../assets/randy-2016-bw.png');
+            background-image: url('../assets/ran-bw.png');
             width: initial;
             flex-grow: 1;
             background-size: cover;
             background-blend-mode: multiply;
-            background-color: lighten($text-color, 40%);
+            background-color: darken($text-color, 3%);
         }
 
     }
