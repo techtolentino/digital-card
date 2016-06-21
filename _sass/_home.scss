@@ -14,7 +14,7 @@
         background-blend-mode: multiply;
         background-color: darken($text-color, 3%);
         width: 35%;
-        background-image: url('../assets/ran-bw.png');
+        background-image: url('../assets/ran16.png');
         background-size: cover;
     }
 
@@ -51,7 +51,7 @@
         }
 
         &--content {
-            background-image: url('../assets/ran-bw.png');
+            background-image: url('../assets/ran16.png');
             width: initial;
             flex-grow: 1;
             background-size: cover;
