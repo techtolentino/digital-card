@@ -1,7 +1,7 @@
 .home {
     display: flex;
     justify-content: space-between;
-    background: darken($text-color, 12%);
+    background: $black-color;
     min-height: 100vh;
     color: #AFAFAF;
 
@@ -19,9 +19,10 @@
     }
 
     &--content {
-        background-color: #040404;
+        background-color: $black-color;
         width: 55%;
         padding: 0 2em;
+        align-self: center;
 
         &-description {
             max-width: 35em;
