@@ -1,9 +1,21 @@
+@mixin divider($line-color) {
+    border: 0;
+    height: 0;
+    border-top: 1px solid $line-color;
+    margin: 1em 0 2em 0;
+    width: 7em;
+}
+
 .divider {
     &--cool {
-        border: 0;
-        height: 0;
-        border-top: 1px solid $cool-color;
-        margin: 1em 0 2em 0;
-        width: 7em;
+        @include divider($cool-color);
+    }
+
+    &--accent {
+        @include divider($accent-color);
+    }
+
+    &--gray {
+        @include divider($gray-color);
     }
 }
