@@ -37,14 +37,15 @@
 @mixin button-ghost($border, $button-hover, $button-active) {
     background: transparent;
     border: 1px solid $border;
-    padding-top: $spacing-unit / 4;
-    padding-bottom: $spacing-unit / 4;
+    padding-top: $spacing-unit / 3;
+    padding-bottom: $spacing-unit / 3;
     padding-left: $spacing-unit;
     padding-right: $spacing-unit;
     border-radius: 2px;
-    margin: $spacing-unit/4;
+    margin-top: $spacing-unit/ 4;
     color: $border;
     transition: background .15s, color .15s;
+    text-decoration: none;
 
     &:hover {
         background: darken($button-hover, 20%);

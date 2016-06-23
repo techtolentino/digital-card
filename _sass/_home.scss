@@ -22,6 +22,11 @@
         background-color: #040404;
         width: 55%;
         padding: 0 2em;
+
+        &-description {
+            max-width: 35em;
+            margin-bottom: 3em;
+        }
     }
 
     &--subtitle {
