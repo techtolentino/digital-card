@@ -15,5 +15,6 @@ body {
 @include media-query($small-screen) {
     body {
         font-size: $base-font-size;
+        line-height: $base-line-height - .1;
     }
 }

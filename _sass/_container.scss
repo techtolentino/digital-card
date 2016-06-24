@@ -10,4 +10,9 @@
         display: block;
         margin: 0 auto;
     }
+
+    &--NAV {
+        height: 3.5em;
+        border-bottom: 1px dotted $gray-color;
+    }
 }

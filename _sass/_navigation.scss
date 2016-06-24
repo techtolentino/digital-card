@@ -1,9 +1,6 @@
 header {
     position: fixed;
-    max-width: 85.5%;
     width: 100%;
-    border-bottom: 1px dotted darken($gray-color, 45%);
-    right: 0;
 }
 
 .nav {
@@ -26,8 +23,8 @@ header {
         text-decoration: none;
 
         &:hover {
-            border-bottom: 1px solid $cool-color;
-            padding-bottom: 18px;
+            border-bottom: 3px solid $cool-color;
+            padding-bottom: 1em;
             color: $cool-color;
         }
     }
