@@ -8,15 +8,16 @@
         padding-bottom: $spacing-unit * 6;
     }
 
-    &--LARGE-TOP {
-        width: 100%;
-        padding-top: $spacing-unit * 6;
-    }
-
     &--MEDIUM {
         width: 100%;
         padding-top: $spacing-unit * 4;
         padding-bottom: $spacing-unit * 4;
+
+        &-HOME {
+            width: 100%;
+            padding-top: $spacing-unit * 3;
+            padding-bottom: $spacing-unit * 2;
+        }
     }
 
     &--SMALL {
@@ -36,6 +37,12 @@
         &--MEDIUM {
             padding-top: $spacing-unit * 2;
             padding-bottom: $spacing-unit * 2;
+
+            &-HOME {
+                width: 100%;
+                padding-top: $spacing-unit * 4;
+                padding-bottom: $spacing-unit * 4;
+            }
         }
 
         &--SMALL {
