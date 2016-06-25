@@ -2,8 +2,27 @@
     background: $black-color;
     min-height: 100vh;
     color: #AFAFAF;
+    display: flex;
+
+    &--accent {
+        background-color: $cool-color;
+        width: 10%;
+    }
 
     &--content {
-        display: block;
+        padding: 0 1.5em;
+    }
+}
+
+@include media-query($medium-screen) {
+    .page {
+
+        &--accent {
+            width: 0;
+        }
+
+        &--content {
+            padding: 0;
+        }
     }
 }

@@ -1,9 +1,9 @@
 @mixin divider($line-color) {
     border: 0;
     height: 0;
-    border-top: 1px solid $line-color;
+    border-top: 1px dotted $line-color;
     margin: 1em 0 2em 0;
-    width: 7em;
+    width: 5em;
 }
 
 .divider {
