@@ -4,7 +4,7 @@ header {
     width: 100%;
     right: 0;
     border-bottom: 1px dotted $gray-color;
-    background-color: $black-color;
+    background-color: $background-color;
 }
 
 .nav {
@@ -14,7 +14,7 @@ header {
 
     &--item {
         display: inline-block;
-        color: $background-color;
+        color: $text-color;
         font-weight: 300;
 
         &:not(:last-child) {
@@ -23,7 +23,7 @@ header {
     }
 
     &--link {
-        color: $background-color;
+        color: $text-color;
         text-decoration: none;
 
         &:hover {
@@ -37,6 +37,7 @@ header {
 @include media-query($medium-screen) {
     header {
         max-width: 90.5%;
+        background-color: #FCFCFC;
     }
 
     .nav {

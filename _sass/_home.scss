@@ -1,9 +1,9 @@
 .home {
     display: flex;
     justify-content: space-between;
-    background: $black-color;
+    background: $background-color;
     min-height: 100vh;
-    color: #AFAFAF;
+    color: $text-color;
 
     &--accent {
         width: 10%;
@@ -11,15 +11,13 @@
     }
 
     &--block {
-        background-blend-mode: multiply;
-        background-color: $text-color;
         width: 35%;
-        background-image: url('../assets/ran2016.png');
+        background-image: url('../assets/ran-2016-mod.png');
         background-size: cover;
     }
 
     &--content {
-        background-color: $black-color;
+        background-color: $background-color;
         width: 50%;
         padding: 0 2em;
         align-self: center;
@@ -55,13 +53,13 @@
         }
 
         &--content {
-            background-image: url('../assets/ran2016.png');
+            background-image: url("../assets/ran-2016-mod.png");
             width: 100%;
             flex-grow: 1;
             background-size: cover;
-            background-blend-mode: multiply;
-            background-color: darken($text-color, 10%);
             padding: 0;
+            background-color: rgba(247, 247, 247, 0.55);
+            background-blend-mode: screen;
         }
 
     }
