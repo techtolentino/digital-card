@@ -16,6 +16,7 @@
 
 @include media-query($medium-screen) {
     .page {
+        background-color: #FBFBFB;
 
         &--accent {
             width: 0;

@@ -7,7 +7,7 @@
 
     &--accent {
         width: 10%;
-        background-color: darken($cool-color, 5%);
+        background-color: $cool-color;
     }
 
     &--block {
