@@ -2,6 +2,7 @@ header {
     position: absolute;
     max-width: 85%;
     width: 100%;
+    z-index: 0;
     right: 0;
     border-bottom: 1px dotted $gray-color;
     background-color: $background-color;
@@ -36,8 +37,8 @@ header {
 
 @include media-query($medium-screen) {
     header {
-        max-width: 100%;
-        background-color: #FCFCFC;
+        max-width: 90%;
+        background-color: $background-color;
     }
 
     .nav {

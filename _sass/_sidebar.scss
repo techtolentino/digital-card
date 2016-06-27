@@ -8,12 +8,38 @@
         background-image: url('../assets/speckles.jpg');
         background-size: cover;
         background-blend-mode: multiply;
+        z-index: 10;
     }
 
     &--content{
         width: 100%;
         padding-left: $spacing-unit * 2;
         padding-right: $spacing-unit * 2;
-        position: relative;
+    }
+}
+
+@include media-query($medium-screen) {
+    .sidebar {
+        &--side {
+            min-width: 4em;
+        }
+
+        &--content{
+            padding-left: $spacing-unit;
+            padding-right: $spacing-unit;
+        }
+    }
+}
+
+@include media-query($small-screen) {
+    .sidebar {
+        &--side {
+            min-width: 2em;
+        }
+
+        &--content{
+            padding-left: $spacing-unit / 2;
+            padding-right: $spacing-unit / 2;
+        }
     }
 }
