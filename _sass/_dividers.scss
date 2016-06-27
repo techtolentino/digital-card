@@ -1,7 +1,7 @@
 @mixin divider($line-color) {
     border: 0;
     height: 0;
-    border-top: 1px dotted $line-color;
+    border-top: 2px solid $line-color;
     margin: 1em 0 2em 0;
     width: 5em;
 }

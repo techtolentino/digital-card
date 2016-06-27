@@ -1,0 +1,19 @@
+.sidebar {
+    display: flex;
+    min-height: 100vh;
+
+    &--side{
+        min-width: 8em;
+        background-color: $accent-color;
+        background-image: url('../assets/speckles.jpg');
+        background-size: cover;
+        background-blend-mode: multiply;
+    }
+
+    &--content{
+        width: 100%;
+        padding-left: $spacing-unit * 2;
+        padding-right: $spacing-unit * 2;
+        position: relative;
+    }
+}
