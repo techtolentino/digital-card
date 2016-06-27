@@ -1,11 +1,12 @@
 header {
-    position: absolute;
+    position: fixed;
     max-width: 85%;
     width: 100%;
     z-index: 0;
     right: 0;
     border-bottom: 1px dotted $gray-color;
     background-color: $background-color;
+    // box-shadow: 0 5px $spacing-unit $background-color;
 }
 
 .nav {

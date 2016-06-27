@@ -14,4 +14,10 @@
     &--NAV {
         height: 3.5em;
     }
+
+    &--LEFT {
+        max-width: $large-screen;
+        width: 90%;
+        display: block;
+    }
 }
