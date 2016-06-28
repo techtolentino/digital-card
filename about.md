@@ -12,23 +12,23 @@ Seems just like yesterday. I was a Site Supervisor for a local YMCA in San Diego
 
 One problem though.
 
-For my family, the position itself was not sustainable. Imagine being a father, a so-called _provider_ for your family, and bringing home a humbling $700 check, every couple of weeks.
+For my family, the situation itself was not sustainable. Imagine being a father, a so-called _provider_ for your family, and bringing home a humbling $700 check, every couple of weeks. It used to hurt - carrying my son in my arms and looking into his eyes and thinking to myself:
 
-It used to hurt - carrying my son in my arms and looking into his eyes and thinking to myself:
-
-_"I have no idea how I'm going to do this, but I promise you, we're going to give you the best life you could possibly have."_
+<p class="text--quote">“ I have no idea how I'm going to do this, but I promise you, we're going to give you the best life you could possibly have. ”</p>
 
 The guilt and fear of not being a 'suitable father' led me back to school (while still working full-time). Somehow I was able to accelerate through another undergrad program and receive a Bachelor's of Science in Information Technology in a couple of years. But even then, I didn't know where I would find a decent enough job, espcially since San Diego isn't known for being too much of a tech city.
 
-By the time our second son was born, I was sure of a few things:
+By the time our second son was born, I was certain of a few things:
 
-1. I knew I wanted a role in the tech industry
+1. I was absolutely sure that I wanted to work in the tech industry
 2. This would mean learning a totally new skillset
 3. We would have to leave San Diego
 
 ### Uprooting
 
-Leaving your family and friends behind is something I would've never dreamed of doing. The same goes for my wife. Plus, everything and everyone that our boys knew was _in_ San Diego.
+Leaving our family and friends behind is something I would've never dreamed of doing. The same goes for my wife. Plus, everything and everyone that our boys knew was _in_ San Diego. We would essentially be ripping ourselves away a familiar world, all for the risk of discovering new opportunities.
+
+But, as a father, I had no choice. 
 
 ### New heights
 

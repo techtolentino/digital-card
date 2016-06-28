@@ -30,4 +30,11 @@
     &--italics {
         font-style: italic;
     }
+
+    &--quote {
+        border-left: 3px solid $cool-color;
+        padding: .5em 1em .5em 1em;
+        font-style: italic;
+        background: lighten($gray-color, 8.5%);
+    }
 }
