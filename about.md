@@ -16,7 +16,7 @@ For my family, the position itself was not sustainable. Imagine being a father, 
 
 It used to hurt - carrying my son in my arms and looking into his eyes and thinking to myself:
 
-_"I have no idea how I'm going to do this, but I promise you, we're going to give you the best life you could possibly have."_
+<p class="text--quote">"I have no idea how I'm going to do this, but I promise you, we're going to give you the best life you could possibly have."</p>
 
 The guilt and fear of not being a 'suitable father' led me back to school (while still working full-time). Somehow I was able to accelerate through another undergrad program and receive a Bachelor's of Science in Information Technology in a couple of years. But even then, I didn't know where I would find a decent enough job, espcially since San Diego isn't known for being too much of a tech city.
 
@@ -28,7 +28,13 @@ By the time our second son was born, I was sure of a few things:
 
 ### Uprooting
 
-Leaving your family and friends behind is something I would've never dreamed of doing. The same goes for my wife. Plus, everything and everyone that our boys knew was _in_ San Diego.
+Leaving your family and friends behind is something we would've never dreamed of doing. Plus, everything and everyone that our boys knew was _in_ San Diego. But, after learning that I was accepted into a software development camp in Austin, TX, my wife and I made the life-altering decision to take the risk, sacrifice the comforts of being _at home_, and move.
+
+The transition was not easy, it wasn't cheap, and it didn't come without a ton of struggle. For once in our lives, we had no one - no family, no friends, no understanding of the landscape, and no idea how we'd make it work. All we had were each other and the hopes of a better opportunity and future. 
+
+On the morning of March 2nd, 2014, we left the sunny west coast and bid farewell to San Diego.
+
+When we arrived, it was 28<sup> ºF</sup>...
 
 ### New heights
 
