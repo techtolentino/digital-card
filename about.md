@@ -34,8 +34,12 @@ The transition was not easy, it wasn't cheap, and it didn't come without a ton o
 
 On the morning of March 2nd, 2014, we left the sunny west coast and bid farewell to San Diego.
 
-When we arrived, it was 28<sup> ºF</sup>...
+It was 28<sup> ºF</sup> when we landed in Texas.
 
 ### New heights
+
+If there's one thing I learned over the past couple of years, it would be this: welcome the risks - even if that ultimately equates to _only the possibility_ of something greater. These possibilities can be life-changing.
+
+Two years later, and I'm happy to report that the initial sacrifices we took have paid off, beautifully. We settled in a new city, I finished school within three months, and landed my first position as (in my dream industry) shortly after. 
 
 ### Fam
