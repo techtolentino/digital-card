@@ -20,11 +20,9 @@ It used to hurt - carrying my son in my arms and looking into his eyes and think
 
 The guilt and fear of not being a 'suitable father' led me back to school (while still working full-time). Somehow I was able to accelerate through another undergrad program and receive a Bachelor's of Science in Information Technology in a couple of years. But even then, I didn't know where I would find a decent enough job, espcially since San Diego isn't known for being too much of a tech city.
 
-By the time our second son was born, I was sure of a few things:
+By the time our second son was born, I was sure of a few things. I knew I wanted a role in the tech industry, which would mean learning a totally new skillset. After long consideration, we had to admit that San Diego didn't have much to offer us.
 
-1. I knew I wanted a role in the tech industry
-2. This would mean learning a totally new skillset
-3. We would have to leave San Diego
+At that point, we knew our lives had to change.
 
 ### Uprooting
 

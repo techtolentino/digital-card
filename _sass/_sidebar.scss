@@ -21,7 +21,7 @@
 @include media-query($medium-screen) {
     .sidebar {
         &--side {
-            min-width: 4em;
+            min-width: 3em;
         }
 
         &--content{
@@ -34,7 +34,7 @@
 @include media-query($small-screen) {
     .sidebar {
         &--side {
-            min-width: 2em;
+            min-width: 1em;
         }
 
         &--content{
