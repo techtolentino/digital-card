@@ -8,17 +8,17 @@ subtitle: At that point
 
 ### Former life
 
-Seems just like yesterday. I was a Site Supervisor for a local YMCA in San Diego, California, working directly in an elementary school. With the responsibility of running the school's before-and-after school program, I was fortunate to have had a significant impact on many young students within the surrounding learning community. I worked with thousands of kids, collectively, and I loved being in the position of being able to inspire these students to value their education.
+Feels like it was just yesterday that I was a Site Supervisor for a local YMCA in San Diego, California, running a school's before-and-after school program. I worked with thousands of kids, collectively, and I loved being in the position of being able to inspire these students to value their education.
 
 One problem though.
 
-For my family, the position itself was not sustainable. Imagine being a father, a so-called _provider_ for your family, and bringing home a humbling $700 check, every couple of weeks.
+The job itself was not sustainable, especially with a growing family. Imagine being a father, a _supposed provider_, and bringing home a humbling $700 check, every two weeks.
 
-It used to hurt - carrying my son in my arms and looking into his eyes and thinking to myself:
+It used to hurt - knowing they deserved better than what I brought home. I remember cradling my son when he was just a baby, looking into his eyes and whispering:
 
-<p class="text--quote">"I have no idea how I'm going to do this, but I promise you, we're going to give you the best life you could possibly have."</p>
+_<span class="accent--cool">“</span>I have no idea how I'm going to do this, but I promise that we're going to give you the best life you could possibly have.<span class="accent--cool">”</span>_
 
-The guilt and fear of not being a 'suitable father' led me back to school (while still working full-time). Somehow I was able to accelerate through another undergrad program and receive a Bachelor's of Science in Information Technology in a couple of years. But even then, I didn't know where I would find a decent enough job, espcially since San Diego isn't known for being too much of a tech city.
+The guilt and fear of not being a 'great father' led me back to school (while still working full-time). Somehow I was able to accelerate through another undergrad program and received a BS in Information Technology within two years. Even then, I didn't know where I would find a decent enough job, espcially since San Diego isn't known for being too much of a tech city.
 
 By the time our second son was born, I was sure of a few things. I knew I wanted a role in the tech industry, which would mean learning a totally new skillset. After long consideration, we had to admit that San Diego didn't have much to offer us.
 
