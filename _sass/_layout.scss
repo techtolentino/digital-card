@@ -1,0 +1,23 @@
+.layout {
+
+    &--flex {
+        display: flex;
+    }
+
+    &--third {
+        padding: 1em 1em 1em 0;
+    }
+}
+
+@include media-query($medium-screen) {
+    .layout {
+
+        &--flex {
+            flex-direction: column;
+        }
+
+        &--third {
+            width: 100%
+        }
+    }
+}

@@ -1,0 +1,13 @@
+.card {
+    padding: 0;
+    border: 1px solid $gray-color;
+
+    &--header {
+        min-height: $spacing-unit * 1.5;
+        background-color: $cool-color;
+    }
+
+    &--body {
+        padding: $spacing-unit / 2;
+    }
+}
