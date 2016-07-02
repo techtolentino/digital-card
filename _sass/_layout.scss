@@ -9,7 +9,7 @@
     }
 }
 
-@include media-query($medium-screen) {
+@include media-query($extra-large-screen) {
     .layout {
 
         &--flex {

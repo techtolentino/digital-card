@@ -8,6 +8,14 @@
         max-width: $large-screen;
         width: 90%;
         display: block;
-        margin: 0 auto;
+        margin-left: 0;
+    }
+}
+
+@include media-query($small-screen) {
+    .container {
+        &--LEFT {
+            margin: 0 auto;
+        }
     }
 }
