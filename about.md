@@ -24,6 +24,8 @@ By the time our second son was born, I was sure of a few things. I knew I wanted
 
 At that point, we knew our lives had to change.
 
+<img class="img--FULL img--LIGHT" src="assets/fam-collage-1-trans.png" alt="">
+
 ### Uprooting
 
 Leaving your family and friends behind is something we would've never dreamed of doing. Plus, everything and everyone that our boys knew was _in_ San Diego. But, after learning that I was accepted into a software development camp in Austin, TX, my wife and I made the life-altering decision to take the risk, sacrifice the comforts of being _at home_, and move.
