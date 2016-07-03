@@ -24,7 +24,7 @@ By the time our second son was born, I was sure of a few things. I knew I wanted
 
 At that point, we knew our lives had to change.
 
-<img class="img--FULL img--LIGHT" src="assets/fam-collage-1-trans.png" alt="">
+<img class="img--FULL" src="assets/fam-collage-1-trans.png" alt="">
 
 ### Uprooting
 
@@ -35,6 +35,8 @@ The transition was not easy, it wasn't cheap, and it didn't come without a ton o
 On the morning of March 2nd, 2014, we left the sunny west coast and bid farewell to San Diego.
 
 It was 28<sup> ºF</sup> when we landed in Texas.
+
+<img class="img--FULL" src="assets/fam-collage-2.png" alt="">
 
 ### New heights
 
