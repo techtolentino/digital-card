@@ -44,4 +44,6 @@ If there's one thing I learned over the past couple of years, it would be this: 
 
 Two years later, and I'm happy to report that the initial sacrifices we took have paid off, beautifully. We settled in a new city, I finished school within three months, and landed my first position as (in my dream industry) shortly after. 
 
+<img class="img--FULL" src="assets/fam-collage-3.png" alt="">
+
 ### Fam
