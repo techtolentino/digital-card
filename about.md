@@ -24,7 +24,7 @@ By the time our second son was born, I was sure of a few things. I knew I wanted
 
 At that point, we knew our lives had to change.
 
-<img class="img--FULL" src="assets/fam-collage-1-trans.png" alt="">
+<img class="img--FULL" src="assets/fam-collage-1.png" alt="">
 
 ### Uprooting
 
