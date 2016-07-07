@@ -32,8 +32,18 @@ header {
 
         &:hover {
             border-bottom: 3px solid $cool-color;
-            padding-bottom: 1.1em;
+            padding-bottom: .9em;
             color: $cool-color;
+        }
+    }
+}
+
+@include media-query($extra-extra-large-screen) {
+    .nav {
+        &--link {
+            &:hover {
+                padding-bottom: 1em;
+            }
         }
     }
 }
