@@ -25,7 +25,7 @@ h4 {
 }
 
 h5 {
-    font-size: 1em;
+    font-size: 1.20em;
     font-weight: 200;
     margin-top: 0;
 }
@@ -72,7 +72,7 @@ ol {
     }
 }
 
-@include media-query($small-screen) {
+@include media-query($medium-screen) {
     h1 {
         font-size: 2.369em;
     }
@@ -87,5 +87,24 @@ ol {
 
     h4 {
         font-size: 1.15em;
+    }
+}
+
+
+@include media-query($small-screen) {
+    h1 {
+        font-size: 1.777em;
+    }
+
+    h2 {
+        font-size: 1.333em;
+    }
+
+    h3 {
+        font-size: 1.20em;
+    }
+
+    h4 {
+        font-size: 1.10em;
     }
 }
