@@ -10,7 +10,7 @@ subtitle: At that point
 
 Feels like it was just yesterday that I was a Site Supervisor for a local YMCA in San Diego, California, running a school's before-and-after school program. I worked with thousands of kids, collectively, and I loved being in the position of being able to inspire these students to value their education.
 
-One problem though.
+(One problem though.)
 
 The job itself was not sustainable, especially with a growing family. Imagine being a father, a _supposed provider_, and bringing home a humbling $700 check, every two weeks.
 
@@ -24,7 +24,8 @@ By the time our second son was born, I was sure of a few things. I knew I wanted
 
 At that point, we knew our lives had to change.
 
-<img class="img--FULL" src="assets/fam-collage-1.png" alt="">
+<img class="img--FULL" src="assets/fam-collage-1.png" alt="The first years of familyhood">
+<figcaption>The first years of familyhood</figcaption>
 
 ### Uprooting
 
@@ -36,7 +37,8 @@ On the morning of March 2nd, 2014, we left the sunny west coast and bid farewell
 
 It was 28<sup> ºF</sup> when we landed in Texas.
 
-<img class="img--FULL" src="assets/fam-collage-2.png" alt="">
+<img class="img--FULL" src="assets/fam-collage-2.png" alt="Relocating to Austin">
+<figcaption>Relocating to Austin</figcaption>
 
 ### New heights
 
@@ -45,5 +47,6 @@ If there's one thing I learned over the past couple of years, it would be this: 
 Two years later, and I'm happy to report that the initial sacrifices we took have paid off, beautifully. We settled in a new city, I finished school within three months, and landed my first position as (in my dream industry) shortly after. 
 
 <img class="img--FULL" src="assets/fam-collage-3.png" alt="">
+<figcaption>Life has been blessed, to say the least</figcaption>
 
 ### Fam
