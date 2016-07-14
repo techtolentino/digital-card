@@ -26,10 +26,28 @@
         &:hover {
             color: $accent-color;
             font-weight: 400;
+
+            .post-link {
+                color: $accent-color;
+            }
+
+            .post-list-item {
+                border: 1px dotted $accent-color;
+            }
         }
     }
 
     &-meta {
         font-size: .75em;
+    }
+}
+
+@include media-query($small-screen) {
+    .post {
+        &-list-item {
+            border: 1px dotted $gray-color;
+            border-radius: 2px;
+            padding: 1em;
+        }
     }
 }
