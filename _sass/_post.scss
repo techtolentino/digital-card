@@ -32,7 +32,7 @@
             }
 
             .post-list-item {
-                border: 1px dotted $accent-color;
+                border-bottom: 1px dotted $accent-color;
             }
         }
     }
@@ -48,6 +48,19 @@
             border: 1px dotted $gray-color;
             border-radius: 2px;
             padding: 1em;
+        }
+
+        &:hover {
+            color: $accent-color;
+            font-weight: 400;
+
+            .post-link {
+                color: $accent-color;
+            }
+
+            .post-list-item {
+                border: 1px dotted $accent-color;
+            }
         }
     }
 }

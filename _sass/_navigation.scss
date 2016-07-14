@@ -1,6 +1,5 @@
 header {
     position: fixed;
-    max-width: 85%;
     width: 100%;
     z-index: 0;
     right: 0;
@@ -50,7 +49,6 @@ header {
 
 @include media-query($medium-screen) {
     header {
-        max-width: 90%;
         background-color: $background-color;
     }
 
