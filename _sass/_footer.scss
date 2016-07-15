@@ -1,11 +1,9 @@
 footer {
     position: absolute;
-    width: 100%;
     z-index: 0;
     right: 0;
     bottom: 0;
-    height: 3.5em;
     border-top: 1px dotted $gray-color;
     background-color: $background-color;
-    // box-shadow: 0 5px $spacing-unit $background-color;
+    padding: 1em;
 }
