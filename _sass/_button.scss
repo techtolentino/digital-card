@@ -20,7 +20,6 @@
 
     &:hover {
         background: $button-hover;
-        cursor: pointer;
         transition: background .2s, color .2s;
     }
 
@@ -50,7 +49,6 @@
     &:hover {
         background: darken($button-hover, 10%);
         border: 1.5px solid darken($button-hover, 10%);
-        cursor: pointer;
         color: $background-color;
         transition: border .15s ease-out, background .15s ease-out, color .15s ease-out;
     }
