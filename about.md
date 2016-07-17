@@ -10,7 +10,7 @@ subtitle: At that point
 
 Feels like it was just yesterday that I was a Site Supervisor for a local YMCA in San Diego, California, running a school's before-and-after school program. I worked with thousands of kids, collectively, and I loved being in the position of being able to inspire these students to value their education.
 
-One problem though.
+(One problem though.)
 
 The job itself was not sustainable, especially with a growing family. Imagine being a father, a _supposed provider_, and bringing home a humbling $700 check, every two weeks.
 
@@ -24,7 +24,8 @@ By the time our second son was born, I was sure of a few things. I knew I wanted
 
 At that point, we knew our lives had to change.
 
-<img class="img--FULL" src="assets/fam-collage-1.png" alt="">
+<img class="img--FULL" src="assets/fam-collage-1.png" alt="The first years of familyhood">
+<figcaption>The first years of familyhood</figcaption>
 
 ### Uprooting
 
@@ -36,7 +37,8 @@ On the morning of March 2nd, 2014, we left the sunny west coast and bid farewell
 
 It was 28<sup> ºF</sup> when we landed in Texas.
 
-<img class="img--FULL" src="assets/fam-collage-2.png" alt="">
+<img class="img--FULL" src="assets/fam-collage-2.png" alt="Relocating to Austin">
+<figcaption>Relocating to Austin</figcaption>
 
 ### New heights
 
@@ -45,5 +47,14 @@ If there's one thing I learned over the past couple of years, it would be this: 
 Two years later, and I'm happy to report that the initial sacrifices we took have paid off, beautifully. We settled in a new city, I finished school within three months, and landed my first position as (in my dream industry) shortly after. 
 
 <img class="img--FULL" src="assets/fam-collage-3.png" alt="">
+<figcaption>Life has been blessed, to say the least</figcaption>
 
 ### Fam
+
+Like I've mentioned before, being a Front-End Developer ain't about me. It's just not. It's about contributing to a team, it's about our users, and underneath that idea is one that I'm devoted to the most - this is about my family.
+
+These consecutive years of waking up between 3 - 4am to study, learn, and practice code, (along with happily putting in 10 hour days at work) have all been for my wife and two boys. They are the my purpose, my best friends, and I love that they keep me motivated.
+
+Where we go from here, man, who knows?
+
+What I do know, is that we can look back and reflect on the sacrifices and risks that we took over the past couple of years, and proudly say to ourselves -  *we've made it.*

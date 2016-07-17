@@ -1,6 +1,5 @@
 header {
     position: fixed;
-    max-width: 85%;
     width: 100%;
     z-index: 0;
     right: 0;
@@ -32,15 +31,24 @@ header {
 
         &:hover {
             border-bottom: 3px solid $cool-color;
-            padding-bottom: 1.1em;
+            padding-bottom: .9em;
             color: $cool-color;
+        }
+    }
+}
+
+@include media-query($extra-extra-large-screen) {
+    .nav {
+        &--link {
+            &:hover {
+                padding-bottom: 1em;
+            }
         }
     }
 }
 
 @include media-query($medium-screen) {
     header {
-        max-width: 90%;
         background-color: $background-color;
     }
 
