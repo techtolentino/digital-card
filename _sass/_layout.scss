@@ -1,23 +1,12 @@
 .layout {
-
-    &--flex {
-        display: flex;
+    &--side {
+        background-color: $accent-color;
+        min-width: 8em;
+        height: 100%;
+        float: left;
+        min-height: 100vh;
     }
-
-    &--third {
-        padding: 1em 1em 1em 0;
-    }
-}
-
-@include media-query($extra-large-screen) {
-    .layout {
-
-        &--flex {
-            flex-direction: column;
-        }
-
-        &--third {
-            width: 100%
-        }
+    &--main {
+        margin-left: 8em;
     }
 }
