@@ -7,7 +7,7 @@ alt: alternative text
 date:   2016-04-10 06:05:00 -0600
 ---
 
-Earlier this year (I don't remember the exact week), I remember having a couple of very difficult days, consecutively. It must've been at least 3 days in a row.
+Earlier this year (I don't remember the exact week), I remember struggling through a downspiral of three, consecutive, very difficult days.
 
 At work, I believe I we were in the middle of removing React from our application's stack and replacing it with kefir.js - a small library for functional reactive programming. I was completely lost and honestly had no clue on how I was supposed to make any sorta significant contributions to the team.
 

@@ -31,10 +31,6 @@
                 font-weight: 400;
             }
 
-            .post-meta {
-                color: $accent-color;
-            }
-
             .post-list-item {
                 border-bottom: 1px dotted $accent-color;
             }
@@ -43,6 +39,8 @@
 
     &-meta {
         font-size: .75em;
+        display: block;
+        max-width: 45em;
     }
 }
 
@@ -56,7 +54,7 @@
 
         &-link {
             &:hover {
-                .post-link {
+                .post-title {
                     color: $accent-color;
                     font-weight: 400;
                 }
