@@ -9,11 +9,9 @@ subtitle: A collection of thoughts
     {% for post in site.posts %}
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
             <li class="post-list-item">
-                <div class="post-header">
-                    <h4 class="post-title">
-                    <span class="post-link">{{ post.title }} ▸</span>
-                    </h4>
-                </div>
+                <h4 class="post-title">
+                <span class="post-link">{{ post.title }} ▸</span>
+                </h4>
                 <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
                 <span class="post-meta">
                     {{ post.content | strip_html | truncatewords:25}}
