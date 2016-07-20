@@ -13,9 +13,7 @@ subtitle: A collection of thoughts
                 <span class="post-link">{{ post.title }} ▸</span>
                 </h4>
                 <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
-                <span class="post-meta">
-                    {{ post.content | strip_html | truncatewords:25}}
-                </span>
+                <p class="post-preview">{{ post.content | strip_html | truncatewords:25}}</p>
             </li>
         </a>
     {% endfor %}
