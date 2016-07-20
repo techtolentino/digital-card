@@ -7,7 +7,7 @@ subtitle: A collection of thoughts
 <hr class="divider--gray">
 <ul class="post-list">
     {% for post in site.posts %}
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+        <a class="post-link" href="http://randytolentino.com/digital-card/{{ post.url }}">
             <li class="post-list-item">
                 <h4 class="post-title">
                 <span class="post-link">{{ post.title }} ▸</span>
