@@ -51,7 +51,7 @@ Two years later, and I'm happy to report that the initial sacrifices we took hav
 
 ### Fam
 
-Like I've mentioned before, being a Front-End Developer ain't about me. It's just not. It's about contributing to a team, it's about our users, and underneath that idea is one that I'm devoted to the most - this is about my family.
+Like I've mentioned before, **being a Front-End Developer ain't about me. It's just not. In the work aspect, it's about the team I work with, and how together, we aim to bring value and solve problems for our users.  Then on the other hand, this entire journey is about my family.**
 
 These consecutive years of waking up between 3 - 4am to study, learn, and practice code, (along with happily putting in 10 hour days at work) have all been for my wife and two boys. They are the my purpose, my best friends, and I love that they keep me motivated.
 
