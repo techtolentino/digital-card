@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "On Recruiting"
-subtitle: "Why I'm terrible at it"
-img: svg-recruitment.svg
-alt: job profile icon
 date:   2016-04-15 06:05:00 -0600
 ---
 
@@ -25,15 +22,15 @@ Just months ago, I knew very very basic things in HTML, CSS, and jQuery (I won't
 
 Who's to say that _anybody, any candidate_, cannot be as fortunate and as successful at IBM?
 
-I, for one, just can't.
+Personally, I can't.
 
 I whole-heartedly believe that if someone has the brains, the passion for problem-solving, humility, and the willingness to learn, that they too can flourish on any team.
 
-As a result, there are times where I feel like I don't have the heart for recruitment. Ultimately, everyone knows that getting hired is not about just skills - everybody knows that. It's about attitude, humility, team-playership, your personal network, and the drive to improve yourself over and over.
+As a result, there are times where I feel like I don't have the heart for recruitment (rejection). Ultimately, everyone should recognize that getting hired is not about just skills only. My hope is that others consider a candidate's attitude, humility, team-playership, and the drive to improve yourself over and over.
 
 At the end of the day, I still hope to supply as much effort as I can towards helping out with recruitment, mainly because I still feel that our Talent team's game is on point! 
 
-All I know is that it ain't easy.
+All I know is, being on this side of the recruitment process is a privilege. And, although it's an honor to be on _this_ side of the process, it can still be just as challenging.
 
 
 
