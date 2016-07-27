@@ -17,5 +17,11 @@
 
     &--gray {
         @include divider($gray-color);
+
+        &--SHORT {
+            @include divider($gray-color);
+            margin-top: $spacing-unit;
+            width: 3em;
+        }
     }
 }

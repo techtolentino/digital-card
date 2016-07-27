@@ -22,8 +22,6 @@ Often times, on a vision quest, one will experience a reconnection with nature, 
 
 It's a rite of passage, and the ultimate goal is to return to your tribe with enough strength, instinct, and knowledge that you can contribute back to the community.
 
-<hr class="divider--gray">
-
 In my case, the vision quest meant a few things: 
 
 - When debugging code or trying to understand a problem, I have to dig into the deeper (even deepest) resources to find a clue. And then just when I think I've searched the world for a solution, to keep on searching.

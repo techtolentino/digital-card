@@ -13,8 +13,6 @@ In addition, I can imagine this becoming a great resource for Open Source projec
 
 To me, that only emphasizes the importance of understanding, demonstrating, and implementing a proper Git workflow. 
 
-<hr class="divider--gray">
-
 In my mind, this Gitflow resource might:
 
 - help a user understand Git at the most basic level

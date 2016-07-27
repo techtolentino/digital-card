@@ -50,6 +50,7 @@ header {
 @include media-query($medium-screen) {
     header {
         background-color: $background-color;
+        font-size: .875em;
     }
 
     .nav {
