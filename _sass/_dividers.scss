@@ -20,7 +20,7 @@
 
         &--SHORT {
             @include divider($gray-color);
-            margin-top: $spacing-unit;
+            padding-top: $spacing-unit * 2;
             width: 3em;
         }
     }
