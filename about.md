@@ -6,7 +6,7 @@ subtitle: At that point
 <h1 class="home--subtitle text--bold">we knew<br>our lives<br> had to change.</h1>
 <hr class="divider--gray">
 
-### Former life
+#### Former life
 
 Feels like it was just yesterday that I was a Site Supervisor for a local YMCA in San Diego, California, running a school's before-and-after school program. I worked with thousands of kids, collectively, and I loved being in the position of being able to inspire these students to value their education.
 
@@ -27,7 +27,7 @@ At that point, we knew our lives had to change.
 <img class="img--FULL" src="assets/fam-collage-1.png" alt="The first years of familyhood">
 <figcaption>The first years of familyhood</figcaption>
 
-### Uprooting
+#### Uprooting
 
 Leaving your family and friends behind is something we would've never dreamed of doing. Plus, everything and everyone that our boys knew was _in_ San Diego. But, after learning that I was accepted into a software development camp in Austin, TX, my wife and I made the life-altering decision to take the risk, sacrifice the comforts of being _at home_, and move.
 
@@ -40,7 +40,7 @@ It was 28<sup> ºF</sup> when we landed in Texas.
 <img class="img--FULL" src="assets/fam-collage-2.png" alt="Relocating to Austin">
 <figcaption>Relocating to Austin</figcaption>
 
-### New heights
+#### New heights
 
 If there's one thing I learned over the past couple of years, it would be this: welcome the risks - even if that ultimately equates to _only the possibility_ of something greater. These possibilities can be life-changing.
 
@@ -49,7 +49,7 @@ Two years later, and I'm happy to report that the initial sacrifices we took hav
 <img class="img--FULL" src="assets/fam-collage-3.png" alt="">
 <figcaption>Life has been blessed, to say the least</figcaption>
 
-### Fam
+#### Fam
 
 Like I've mentioned before, **being a Front-End Developer ain't about me. It's just not. In the work aspect, it's about the team I work with, and how together, we aim to bring value and solve problems for our users.  Then on the other hand, this entire journey is about my family.**
 

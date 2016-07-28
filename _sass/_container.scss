@@ -1,11 +1,13 @@
+$container-tight: 35em;
+
 .container {
     max-width: $large-screen;
     width: 90%;
     display: block;
     margin: 0 auto;
 
-    &--LEFT {
-        max-width: $medium-screen;
+    &--TIGHT {
+        max-width: $container-tight;
         width: 90%;
         display: block;
         margin: 0 auto;
@@ -14,7 +16,7 @@
 
 @include media-query($small-screen) {
     .container {
-        &--LEFT {
+        &--TIGHT {
             margin: 0 auto;
         }
     }

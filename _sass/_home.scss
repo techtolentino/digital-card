@@ -5,6 +5,7 @@
     &--content {
         background-color: $background-color;
         align-self: center;
+        padding-bottom: $spacing-unit;
 
         &-description {
             max-width: 35em;
