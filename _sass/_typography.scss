@@ -47,6 +47,10 @@ pre {
     background: lighten($gray-color, 5%);
 }
 
+sup {
+    z-index: -1;
+}
+
 figcaption {
     font-size: .875em;
     color: darken($gray-color, 10%);
