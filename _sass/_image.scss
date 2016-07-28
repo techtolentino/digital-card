@@ -7,4 +7,8 @@
     &--LIGHT {
         opacity: .5;
     }
+
+    &--icon {
+        width: $spacing-unit / 1.45;
+    }
 }

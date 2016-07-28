@@ -1,5 +1,5 @@
 .contact {
-    padding-top: $spacing-unit / 2;
+    padding-top: $spacing-unit * 2;
     font-size: .875em;
 
     &--list {
@@ -9,6 +9,6 @@
 
     &--list-item {
         display: inline;
-        padding-right: $spacing-unit/2;
+        padding-right: $spacing-unit / 1.35;
     }
 }
