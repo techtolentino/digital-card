@@ -3,43 +3,24 @@
     min-height: 100vh;
 
     &--side{
-        min-width: 8em;
+        min-width: 2em;
         background-color: $accent-color;
         background-image: url('../assets/speckles.jpg');
-        // background-size: cover;
         background-blend-mode: multiply;
         z-index: 10;
     }
 
     &--content{
         width: 100%;
-        padding-left: $spacing-unit * 4.5;
-        padding-right: $spacing-unit * 4.5;
         position: relative;
-        // height: 100%;
     }
 }
 
-@include media-query($extra-extra-large-screen) {
-    .sidebar{
-
-        &--content{
-            width: 100%;
-            padding-left: $spacing-unit * 2;
-            padding-right: $spacing-unit * 2;
-        }
-    }
-}
 
 @include media-query($medium-screen) {
     .sidebar {
         &--side {
-            min-width: 3em;
-        }
-
-        &--content{
-            padding-left: $spacing-unit;
-            padding-right: $spacing-unit;
+            min-width: 1.5em;
         }
     }
 }
@@ -48,11 +29,6 @@
     .sidebar {
         &--side {
             min-width: 1em;
-        }
-
-        &--content{
-            padding-left: $spacing-unit / 2;
-            padding-right: $spacing-unit / 2;
         }
     }
 }
